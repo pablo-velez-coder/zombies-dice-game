@@ -1,0 +1,11 @@
+.Game{
+    display:flex;
+    gap:1rem;
+    >div{
+        width:100px;
+        height: 100px;
+        border:2px solid black;
+        border-radius: 8px;
+        box-shadow: 5px 3px 10px rgba(0,0,0,0.2);
+    }
+}
